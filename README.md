@@ -6,5 +6,5 @@
 PPIDSpoofer.exe <LEGIMATE_PROCESS_ID> <PATH TO EXE>
 ```
 # 🌟 Review:
-<img alt="screen" width="500" src="1.png">
+<img alt="screen" width="750" src="1.png">
 <img alt="screen" width="500" src="2.png">
